@@ -14,6 +14,6 @@ ENDCLASS.
 
 CLASS zcl_mpp_test_abap_cloud IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-       out->write( 'Probando' ).
+       out->write( 'Probando 2 ahber como me va' ).
   ENDMETHOD.
 ENDCLASS.
